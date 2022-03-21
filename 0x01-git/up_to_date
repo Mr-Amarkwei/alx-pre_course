@@ -1,0 +1,9 @@
+git pull
+git branch -b update_script
+git clone
+git log 
+git status
+git commit -m
+git add .
+gi push 
+git checkout
