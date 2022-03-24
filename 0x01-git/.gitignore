@@ -1,0 +1,3 @@
+#ignore some files
+#I've been asked to ignore all ~ files so ...
+[~]*
